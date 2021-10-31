@@ -1,9 +1,11 @@
 h1 {
   font-family: monospace;
+  text-align: center;
 }
 
 body {
-  background-color: #fef41c;
+  background-color: #ebbb1e;
+  padding: 2%;
 }
 
 .RL {
@@ -25,6 +27,25 @@ body {
 .button {
   color: #3a3828;
   background-color: #b19704;
-  padding: 10px;
+  padding: 5px;
   text-decoration: none;
+}
+.image-c {
+  height: 220px;
+  position: relative;
+}
+#foto {
+  float: left;
+  height: 200px;
+  padding: 10px;
+  background-color: black;
+}
+#sobre {
+  position: absolute;
+  left: 300px;
+  top: 75px;
+}
+ul li:nth-of-type(odd) {
+  background-color: #3a3828;
+  color: white;
 }
