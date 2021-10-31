@@ -1,0 +1,30 @@
+h1 {
+  font-family: monospace;
+}
+
+body {
+  background-color: #fef41c;
+}
+
+.RL {
+  font-size: medium;
+}
+
+.CEM {
+  font-size: larger;
+}
+
+.M {
+  font-size: x-large;
+}
+
+.CUC {
+  font-size: xx-large;
+}
+
+.button {
+  color: #3a3828;
+  background-color: #b19704;
+  padding: 10px;
+  text-decoration: none;
+}
